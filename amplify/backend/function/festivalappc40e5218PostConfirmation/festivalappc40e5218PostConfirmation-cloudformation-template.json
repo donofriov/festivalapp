@@ -102,7 +102,7 @@
         "Timeout": "25",
         "Code": {
           "S3Bucket": "amplify-festivalapp-dev-225721-deployment",
-          "S3Key": "amplify-builds/festivalappc40e5218PostConfirmation-415053424c32344e6c31-build.zip"
+          "S3Key": "amplify-builds/festivalappc40e5218PostConfirmation-4b766c30684e4a334670-build.zip"
         }
       }
     },
